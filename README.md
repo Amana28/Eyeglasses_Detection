@@ -6,6 +6,6 @@ Deep Learning model for detecting eye glasses
 - Wasay Qureshi
 
 ### Abstract 
-This project aims to use deep learning techniques to recognize the presence/absence of eye glasses on images containing peoples faces. We are going to be suing the celebA dataset to train our CNN model. 
+This project aims to use deep learning techniques to recognize the presence/absence of eye glasses on images of peoples faces. We are going to be suing the celebA dataset to train our CNN model. 
 
 
